@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyTP2</string>
+    <string name="poids">Determine your weight :</string>
+    <string name="taille">Determine your size:</string>
+    <string name="metre">Metre</string>
+    <string name="centimetre">Centimeter</string>
+    <string name="appreciation">Appreciation</string>
+    <string name="calcul_imc">Calculate BMI</string>
+    <string name="reset">Reset</string>
+    <string name="resultat">Result :</string>
+    <string name="indication">You have to click on the \"Calculate BMI\" button to get a result.</string>
+</resources>
